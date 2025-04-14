@@ -12,5 +12,5 @@ public class Java_Utility {
 	String curdate = arr[2]+"-"+arr[1]+"-"+arr[5]+"-"+arr[3].replace(":", "-");
 	return curdate;
 	}
-
+   //git pull the changes back from git to eclipse
 }
